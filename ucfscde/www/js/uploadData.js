@@ -1,3 +1,3 @@
 function startDataUpload() {
-	alert (“start data upload”);
+	alert ("start data upload");
 }
